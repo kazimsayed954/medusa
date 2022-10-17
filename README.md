@@ -1,3 +1,14 @@
+# Medusa Starter Pack 🛒
+
+<img src="./resources/bannerpng">
+
+## About
+
+
+### Participants
+
+Kazim Sayed - [@kazimsayed954](https://github.com/patrickmonteiro)
+
 1. **Create a new  project**
 
 ```zsh
