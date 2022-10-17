@@ -1,6 +1,6 @@
 # Medusa Starter Pack 🛒
 
-<img src="./resources/bannerpng">
+<img src="https://github.com/kazimsayed954/medusa/blob/master/resources/banner.png">
 
 ## About
 
