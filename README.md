@@ -9,6 +9,14 @@
 
 Kazim Sayed - [@kazimsayed954](https://github.com/patrickmonteiro)
 
+### Description
+
+A storefront built using **MedusaJS** + **Gatsby js** beginner friendly to setup a virtual store
+
+### Demo/Preview
+<img src="https://github.com/kazimsayed954/medusa/blob/master/resources/img-1.png">
+
+
 1. **Create a new  project**
 
 ```zsh
