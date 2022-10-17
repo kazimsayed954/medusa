@@ -16,6 +16,11 @@ A storefront built using **MedusaJS** + **Gatsby js** beginner friendly to setup
 ### Demo/Preview
 <img src="https://github.com/kazimsayed954/medusa/blob/master/resources/img-1.png">
 
+### Prerequisites
+- Medusa Server (Link to [Quickstart](https://docs.medusajs.com/quickstart/quick-start) here).
+- Gatsby js
+- npm/yarn
+
 
 1. **Create a new  project**
 
